@@ -1,0 +1,7 @@
+div{
+    background-color: #549;  /*Applying the color in background*/ /*Note that in div,body we dont use . symbol*/
+    color: black;          /*Applying the text color of the div*/
+}
+.CSSTutorial{
+    color: red;
+}
